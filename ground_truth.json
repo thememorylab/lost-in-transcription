@@ -1,0 +1,866 @@
+{
+  "ground_truth": [
+    {
+      "file": "0001_page_19741519_docId_477905",
+      "underlinings": [
+        {
+          "text": "stormer",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "confidence": "certain",
+          "notes": "fine line but clear"
+        },
+        {
+          "text": "regner",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "confidence": "certain",
+          "notes": "fine line but clear"
+        },
+        {
+          "text": "skal",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "confidence": "certain",
+          "notes": "fine line but clear"
+        },
+        {
+          "text": "alle",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "confidence": "certain",
+          "notes": "fine line but clear"
+        }
+      ],
+      "document_notes": "Clear, decipherable text but potential confusion with crossbar of t"
+    },
+    {
+      "file": "0001_page_19741593_docId_477905",
+      "underlinings": [
+        {
+          "text": "Tusind",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "confidence": "certain",
+          "notes": "fine line but clear"
+        },
+        {
+          "text": "meget",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "confidence": "certain",
+          "notes": "fine line but clear"
+        }
+      ],
+      "document_notes": "Potential confusion with crossbar of t and placement at top corner of document might be an issue."
+    },
+    {
+      "file": "0002_page_19741487_docId_477905",
+      "underlinings": [
+        {
+          "text": "et",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "confidence": "certain",
+          "notes": "easy to miss"
+        },
+        {
+          "text": "fortvivlelse",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "confidence": "certain",
+          "notes": "very fine line"
+        }
+      ],
+      "document_notes": "handwriting style is quite decorative and possibly confusing"
+    },
+    {
+      "file": "0003_page_19741502_docId_477905",
+      "underlinings": [
+        {
+          "text": "momentan",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "confidence": "certain",
+          "notes": "clear and distinct"
+        }
+      ],
+      "document_notes": "Document is clear but a visible smudge"
+    },
+    {
+      "file": "31a3f9df1d3596f7d2f977c06bb5f423-71720-0015",
+      "underlinings": [
+        {
+          "text": "milli-oner",
+          "spans_multiple_words": false,
+          "spans_line_break": true,
+          "confidence": "certain",
+          "notes": "clear"
+        },
+        {
+          "text": "Liechtensteins galleri",
+          "spans_multiple_words": true,
+          "spans_line_break": false,
+          "confidence": "certain",
+          "notes": "clear"
+        },
+        {
+          "text": "det vidunderligste galleri jeg endnu har seet",
+          "spans_multiple_words": true,
+          "spans_line_break": true,
+          "confidence": "certain",
+          "notes": "clear"
+        }
+      ],
+      "document_notes": "Document contains heavy decorative flourishes"
+    },
+    {
+      "file": "31a3f9df1d3596f7d2f977c06bb5f423-71720-0047",
+      "underlinings": [
+        {
+          "text": "Norge",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "confidence": "certain",
+          "notes": "visible line but can be confusing because of style og g"
+        },
+        {
+          "text": "andre",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "confidence": "certain",
+          "notes": "thick emphatic underline, distinct from decorative strokes"
+        },
+        {
+          "text": "for fremtidens skyld!",
+          "spans_multiple_words": true,
+          "spans_line_break": false,
+          "confidence": "certain",
+          "notes": "distinct line that is slightly faded under for"
+        },
+        {
+          "text": "Gjør en forandring",
+          "spans_multiple_words": true,
+          "spans_line_break": true,
+          "confidence": "certain",
+          "notes": "Multiple lines under gjør en, single line under forandring"
+        },
+        {
+          "text": "dispo-sitionsret",
+          "spans_multiple_words": false,
+          "spans_line_break": true,
+          "confidence": "certain",
+          "notes": "continuous line spanning two lines, clear and distinct"
+        },
+        {
+          "text": "Ja - ja, - jeg har for en gangs skyld sagt min mening",
+          "spans_multiple_words": true,
+          "spans_line_break": true,
+          "confidence": "uncertain",
+          "notes": "continuous line spanning two lines, clear and distinct"
+        },
+        {
+          "text": "døden",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "confidence": "certain",
+          "notes": "Clear and distinct"
+        },
+        {
+          "text": "skrevet",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "confidence": "certain",
+          "notes": "thin line, probable — difficult to distinguish from baseline flourish"
+        }
+      ],
+      "document_notes": "expressive style with flourishes and many different types of underlinings"
+    },
+    {
+      "file": "fas001_2",
+      "underlinings": [
+        {
+          "text": "ord",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "confidence": "uncertain",
+          "notes": "clear underline but ord is added above another word"
+        },
+        {
+          "text": "virkelige",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "confidence": "certain",
+          "notes": "clear and distinct"
+        }
+      ],
+      "document_notes": "Clear"
+    },
+    {
+      "file": "fbad007_4",
+      "underlinings": [
+        {
+          "text": "du",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "confidence": "probable",
+          "notes": "visible line but relatively large spce between word and line"
+        },
+        {
+          "text": "Kuez Kowski",
+          "spans_multiple_words": true,
+          "spans_line_break": true,
+          "confidence": "certain",
+          "notes": "continuous line spanning two lines, clear and distinct"
+        },
+        {
+          "text": "der er",
+          "spans_multiple_words": true,
+          "spans_line_break": false,
+          "confidence": "certain",
+          "notes": "continuous line,clear and distinct"
+        },
+        {
+          "text": "det beste",
+          "spans_multiple_words": true,
+          "spans_line_break": false,
+          "confidence": "certain",
+          "notes": "continuous line,clear and distinct"
+        },
+        {
+          "text": "selv",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "confidence": "certain",
+          "notes": "double lines, clear"
+        },
+        {
+          "text": "U S. America",
+          "spans_multiple_words": true,
+          "spans_line_break": false,
+          "confidence": "certain",
+          "notes": "clear continuous line"
+        }
+      ],
+      "document_notes": "document contains heavy decorative flourishes, clarity affected by ink bleed from verso, baseline noise high"
+    },
+    {
+      "file": "fbb019_1",
+      "underlinings": [
+        {
+          "text": "aldrig",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "confidence": "certain",
+          "notes": "clear"
+        }
+      ],
+      "document_notes": "Document contains heavy decorative flourishes"
+    },
+    {
+      "file": "fbbx006_2",
+      "underlinings": [
+        {
+          "text": "mellem os",
+          "spans_multiple_words": true,
+          "spans_line_break": false,
+          "confidence": "certain",
+          "notes": "clear and distinct"
+        }
+      ],
+      "document_notes": "Clear"
+    },
+    {
+      "file": "fbf003_2",
+      "underlinings": [
+        {
+          "text": "maa",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "confidence": "certain",
+          "notes": "clear"
+        }
+      ],
+      "document_notes": "Document contains decorative flourishes where the letter d curls upwards and the letter T has a significant line"
+    },
+    {
+      "file": "fbf072_2",
+      "underlinings": [
+        {
+          "text": "hun",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "confidence": "certain",
+          "notes": "clear and distinct"
+        },
+        {
+          "text": "stille",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "confidence": "certain",
+          "notes": "clear and distinct"
+        }
+      ],
+      "document_notes": "Document contains decorative flourishes"
+    },
+    {
+      "file": "fbhl001_1",
+      "underlinings": [
+        {
+          "text": "eneste",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "confidence": "certain",
+          "notes": "clear and distinct"
+        }
+      ],
+      "document_notes": "Clear document"
+    },
+    {
+      "file": "fbio001_2",
+      "underlinings": [
+        {
+          "text": "skal",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "confidence": "certain",
+          "notes": "clear"
+        }
+      ],
+      "document_notes": "Document contains decorative flourishes and potential confusion with crossbar of t"
+    },
+    {
+      "file": "fbio002_2",
+      "underlinings": [
+        {
+          "text": "vidunderlige",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "confidence": "certain",
+          "notes": "partial underline — line runs beneath middle section of word only, does not extend full width but clear and distinct"
+        }
+      ],
+      "document_notes": "Risk of confusion due to style of handwriting"
+    },
+    {
+      "file": "fbmm004_1",
+      "underlinings": [
+        {
+          "text": "burde",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "confidence": "probable",
+          "notes": "partial underline — line runs beneath middle section of word only, does not extend full width"
+        },
+        {
+          "text": "ikke",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "confidence": "probable",
+          "notes": "partial underline — line runs beneath middle section of word only, does not extend full width"
+        }
+      ],
+      "document_notes": "Tidy document"
+    },
+    {
+      "file": "fbmx002_2",
+      "underlinings": [
+        {
+          "text": "netop",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "confidence": "certain",
+          "notes": "clear"
+        },
+        {
+          "text": "saafremt Deres Hel- bred tillader det",
+          "spans_multiple_words": true,
+          "spans_line_break": true,
+          "confidence": "certain",
+          "notes": "clear"
+        },
+        {
+          "text": "ikke",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "confidence": "certain",
+          "notes": "clear"
+        }
+      ],
+      "document_notes": "Document contains heavy decorative flourishes— increases risk of false positives for automated detection, baseline noise high"
+    },
+    {
+      "file": "fboz003_1",
+      "underlinings": [
+        {
+          "text": "meget",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "confidence": "certain",
+          "notes": "clear and distinct"
+        }
+      ],
+      "document_notes": "Potential confusion with word Tekst that has marked crossbars on t"
+    },
+    {
+      "file": "fchz016_2",
+      "underlinings": [
+        {
+          "text": "Deres",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "confidence": "certain",
+          "notes": "clear line"
+        },
+        {
+          "text": "bis",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "confidence": "certain",
+          "notes": "clear line"
+        },
+        {
+          "text": "auf",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "confidence": "certain",
+          "notes": "clear line"
+        },
+        {
+          "text": "weiteres",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "confidence": "certain",
+          "notes": "clear line"
+        }
+      ],
+      "document_notes": "document contains flourishes and correction, clarity affected by ink bleed from verso"
+    },
+    {
+      "file": "fgab001_2",
+      "underlinings": [
+        {
+          "text": "denne",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "confidence": "certain",
+          "notes": "fine curled line that ressembles a flourish"
+        },
+        {
+          "text": "liget",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "confidence": "certain",
+          "notes": "distinct line"
+        },
+        {
+          "text": "imponerende",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "confidence": "certain",
+          "notes": "partial underline — line runs beneath middle section of word only and possible confusion with crossbar of t"
+        },
+        {
+          "text": "straks",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "confidence": "certain",
+          "notes": "clear and distinct line"
+        },
+        {
+          "text": "første",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "confidence": "certain",
+          "notes": "Clear line but possible confusion with crossbar of t in surrounding words"
+        },
+        {
+          "text": "udenlansk",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "confidence": "certain",
+          "notes": "Clear line but possible confusion with crossbar of t in surrounding words"
+        },
+        {
+          "text": "rimelige",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "confidence": "certain",
+          "notes": "Visible ine but possible confusion with crossbar of t in surrounding words"
+        },
+        {
+          "text": "alligevel",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "confidence": "certain",
+          "notes": "Visible ine but possible confusion with crossbar of t in surrounding words"
+        },
+        {
+          "text": "just",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "confidence": "certain",
+          "notes": "Visble and distinct line"
+        },
+        {
+          "text": "kun",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "confidence": "certain",
+          "notes": "visible and distinct line"
+        }
+      ],
+      "document_notes": "document contains heavy decorative flourishes, clarity affected by ink bleed from verso, baseline noise high and confusion with pronounced crossbars on t letters"
+    },
+    {
+      "file": "fgb002_1",
+      "underlinings": [
+        {
+          "text": "Ingen",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "confidence": "certain",
+          "notes": "partial underline — line runs beneath middle section of word only, does not extend full width"
+        },
+        {
+          "text": "Ingen",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "confidence": "certain",
+          "notes": "partial underline — line runs beneath middle section of word only, does not extend full width"
+        },
+        {
+          "text": "hele",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "confidence": "certain",
+          "notes": "partial underline — line runs beneath middle section of word only, does not extend full width;"
+        }
+      ],
+      "document_notes": "Fine handwriting with low contrast and clarity affected by ink bleed from verso"
+    },
+    {
+      "file": "fgb007_1",
+      "underlinings": [
+        {
+          "text": "ikke",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "confidence": "certain",
+          "notes": "clear but not very distinct"
+        }
+      ],
+      "document_notes": "Line is very close to word"
+    },
+    {
+      "file": "fhk027_1",
+      "underlinings": [
+        {
+          "text": "efter eget Initiativ",
+          "spans_multiple_words": true,
+          "spans_line_break": false,
+          "confidence": "certain",
+          "notes": "continuous line, clear and distinct"
+        }
+      ],
+      "document_notes": "Clear and tidy"
+    },
+    {
+      "file": "fhka006_3",
+      "underlinings": [
+        {
+          "text": "ædru",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "confidence": "certain",
+          "notes": "clear and distinct"
+        },
+        {
+          "text": "uædru",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "confidence": "probable",
+          "notes": "clear and distinct but onlig the letter u in part of the word uædruelige that spans over 2 lines\nelige is on next line without hypen"
+        }
+      ],
+      "document_notes": "Clear enough"
+    },
+    {
+      "file": "fisx001_1",
+      "underlinings": [
+        {
+          "text": "gjerne",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "confidence": "uncertain",
+          "notes": "small line at end of word only under e"
+        },
+        {
+          "text": "medfølgende",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "confidence": "uncertain",
+          "notes": "small line in middle of word and confusingly close to word in line underneath"
+        },
+        {
+          "text": "om",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "confidence": "uncertain",
+          "notes": "small line in middle of word"
+        },
+        {
+          "text": "ske",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "confidence": "probable",
+          "notes": "line is visble but may be confusion due to use of many hyphenations"
+        },
+        {
+          "text": "uden",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "confidence": "probable",
+          "notes": "line is visble but may be confusion due to use of many hyphenations"
+        },
+        {
+          "text": "meget",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "confidence": "uncertain",
+          "notes": "small line only under m"
+        }
+      ],
+      "document_notes": "Document contains decorative flourishes and due to use of hyphens and lines in handwriting, likely low accuracy"
+    },
+    {
+      "file": "foo002_2",
+      "underlinings": [
+        {
+          "text": "et",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "confidence": "certain",
+          "notes": "very fineline close to word"
+        },
+        {
+          "text": "det er velment",
+          "spans_multiple_words": true,
+          "spans_line_break": false,
+          "confidence": "certain",
+          "notes": "clear continuous line"
+        }
+      ],
+      "document_notes": "Clear document but low contrast writing"
+    },
+    {
+      "file": "no-nb_digimanus_214549_0001",
+      "underlinings": [
+        {
+          "text": "før",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "confidence": "certain",
+          "notes": "clear and distinct"
+        }
+      ],
+      "document_notes": "Clear"
+    },
+    {
+      "file": "no-nb_digimanus_21565_0001",
+      "underlinings": [
+        {
+          "text": "for",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "confidence": "certain",
+          "notes": "clear"
+        }
+      ],
+      "document_notes": "Line is visible but may blend in style of writing"
+    },
+    {
+      "file": "no-nb_digimanus_249940_0001",
+      "underlinings": [
+        {
+          "text": "vil",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "confidence": "certain",
+          "notes": "clear and distinct"
+        }
+      ]
+    },
+    {
+      "file": "no-nb_digimanus_25418_0001",
+      "underlinings": [
+        {
+          "text": "uden",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "confidence": "certain",
+          "notes": "clear and distinct"
+        }
+      ],
+      "document_notes": "Clear even though handwriting is small"
+    },
+    {
+      "file": "no-nb_digimanus_258173_0001",
+      "underlinings": [
+        {
+          "text": "merki",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "confidence": "certain",
+          "notes": "clear and distinct"
+        }
+      ],
+      "document_notes": "clear document"
+    },
+    {
+      "file": "no-nb_digimanus_258197_0001",
+      "underlinings": [
+        {
+          "text": "ikke under nogen omstændighed",
+          "spans_multiple_words": true,
+          "spans_line_break": true,
+          "confidence": "certain",
+          "notes": "continuous line spanning two lines, clear and distinct but word under is smudged"
+        }
+      ],
+      "document_notes": "Clear except for the smudged word"
+    },
+    {
+      "file": "no-nb_digimanus_258197_0002",
+      "underlinings": [
+        {
+          "text": "hverken har lyst eller evne",
+          "spans_multiple_words": true,
+          "spans_line_break": true,
+          "confidence": "certain",
+          "notes": "continuous line spanning two lines, clear and distinct"
+        },
+        {
+          "text": "denne anvendelse",
+          "spans_multiple_words": true,
+          "spans_line_break": true,
+          "confidence": "certain",
+          "notes": "line begins under or just after i, runs clearly under denne — boundary of i ambiguous, probable intent to underline both"
+        }
+      ],
+      "document_notes": "Clear"
+    },
+    {
+      "file": "no-nb_digimanus_311001_0001",
+      "underlinings": [
+        {
+          "text": "i tilfælde",
+          "spans_multiple_words": true,
+          "spans_line_break": false,
+          "confidence": "certain",
+          "notes": "clear and distinct"
+        }
+      ],
+      "document_notes": "Clear"
+    },
+    {
+      "file": "no-nb_digimanus_313806_0002",
+      "underlinings": [
+        {
+          "text": "trods",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "confidence": "certain",
+          "notes": "clear and distinct"
+        },
+        {
+          "text": "alt",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "confidence": "certain",
+          "notes": "clear and distinct"
+        }
+      ],
+      "document_notes": "Clear, decipherable text"
+    },
+    {
+      "file": "no-nb_digimanus_317348_0001",
+      "underlinings": [
+        {
+          "text": "må",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "confidence": "certain",
+          "notes": "clear and distinct"
+        }
+      ],
+      "document_notes": "Confusion may arise due to use of hyphens that resembel underlining"
+    },
+    {
+      "file": "no-nb_digimanus_52618_0001",
+      "underlinings": [
+        {
+          "text": "absolut",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "confidence": "certain",
+          "notes": "clear and distinct"
+        },
+        {
+          "text": "i opvarmet Rum",
+          "spans_multiple_words": true,
+          "spans_line_break": false,
+          "confidence": "certain",
+          "notes": "continuous line, clear and distinct"
+        }
+      ],
+      "document_notes": "Handwriting slightly more condensed at bottom of page"
+    },
+    {
+      "file": "no-nb_digimanus_52747_0001",
+      "underlinings": [
+        {
+          "text": "bestemt Dag i hver eneste Uke",
+          "spans_multiple_words": true,
+          "spans_line_break": true,
+          "confidence": "certain",
+          "notes": "continuous line spanning two lines, clear and distinct"
+        }
+      ],
+      "document_notes": "Clear format"
+    },
+    {
+      "file": "no-nb_digimanus_55495_0003",
+      "underlinings": [
+        {
+          "text": "telegrafere dette til mig",
+          "spans_multiple_words": true,
+          "spans_line_break": true,
+          "confidence": "certain",
+          "notes": "continuous line spanning two lines, clear and distinct"
+        },
+        {
+          "text": "telegrafere",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "confidence": "certain",
+          "notes": "clear"
+        }
+      ],
+      "document_notes": "Document is clear although some strikethroughs"
+    },
+    {
+      "file": "no-nb_digimanus_73009_0001",
+      "underlinings": [
+        {
+          "text": "Jeg tar ikke Langfeldts Navn ut av min Bok.",
+          "spans_multiple_words": true,
+          "spans_line_break": false,
+          "confidence": "certain",
+          "notes": "continuous line, clear and distinct"
+        }
+      ],
+      "document_notes": "Clear format"
+    }
+  ]
+}

@@ -1,0 +1,925 @@
+{
+  "model_used": "claude-opus-4-7",
+  "total": 40,
+  "successful": 40,
+  "failed": 0,
+  "results": [
+    {
+      "file": "0001_page_19741519_docId_477905",
+      "model": "claude-opus-4-7",
+      "underlinings": [
+        {
+          "text": "stormer",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "position": "strip 2",
+          "confidence": "certain"
+        },
+        {
+          "text": "regner",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "position": "strip 2",
+          "confidence": "certain"
+        },
+        {
+          "text": "skal",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "position": "strip 5",
+          "confidence": "certain"
+        },
+        {
+          "text": "alle",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "position": "strip 6",
+          "confidence": "certain"
+        }
+      ],
+      "usage_note": "6 API calls"
+    },
+    {
+      "file": "0001_page_19741593_docId_477905",
+      "model": "claude-opus-4-7",
+      "underlinings": [
+        {
+          "text": "Tusind",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "position": "strip 1",
+          "confidence": "certain"
+        },
+        {
+          "text": "meget",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "position": "strip 1",
+          "confidence": "certain"
+        }
+      ],
+      "usage_note": "6 API calls"
+    },
+    {
+      "file": "0002_page_19741487_docId_477905",
+      "model": "claude-opus-4-7",
+      "underlinings": [
+        {
+          "text": "fortvivlelse",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "position": "strip 3",
+          "confidence": "certain"
+        },
+        {
+          "text": "et",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "position": "strip 2",
+          "confidence": "certain"
+        }
+      ],
+      "usage_note": "6 API calls"
+    },
+    {
+      "file": "0003_page_19741502_docId_477905",
+      "model": "claude-opus-4-7",
+      "underlinings": [
+        {
+          "text": "momentan",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "position": "strip 4",
+          "confidence": "certain"
+        },
+        {
+          "text": "trøste",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "position": "strip 6",
+          "confidence": "certain"
+        }
+      ],
+      "usage_note": "6 API calls"
+    },
+    {
+      "file": "31a3f9df1d3596f7d2f977c06bb5f423-71720-0015",
+      "model": "claude-opus-4-7",
+      "underlinings": [
+        {
+          "text": "det vidunderligste galleri jeg endnu har seet",
+          "spans_multiple_words": true,
+          "spans_line_break": true,
+          "position": "strip 4",
+          "confidence": "certain"
+        },
+        {
+          "text": "Liechtensteins galleri",
+          "spans_multiple_words": true,
+          "spans_line_break": false,
+          "position": "strip 4",
+          "confidence": "certain"
+        },
+        {
+          "text": "milli-oner",
+          "spans_multiple_words": false,
+          "spans_line_break": true,
+          "position": "strip 2",
+          "confidence": "certain"
+        },
+        {
+          "text": "Bruegel",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "position": "strip 4",
+          "confidence": "certain"
+        },
+        {
+          "text": "stængt",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "position": "strip 5",
+          "confidence": "probable"
+        }
+      ],
+      "usage_note": "6 API calls"
+    },
+    {
+      "file": "31a3f9df1d3596f7d2f977c06bb5f423-71720-0047",
+      "model": "claude-opus-4-7",
+      "underlinings": [
+        {
+          "text": "for fremtidens skyld!",
+          "spans_multiple_words": true,
+          "spans_line_break": false,
+          "position": "strip 2",
+          "confidence": "certain"
+        },
+        {
+          "text": "Gjør en forandring",
+          "spans_multiple_words": true,
+          "spans_line_break": true,
+          "position": "strip 3",
+          "confidence": "certain"
+        },
+        {
+          "text": "tilbake til Norge",
+          "spans_multiple_words": true,
+          "spans_line_break": false,
+          "position": "strip 1",
+          "confidence": "certain"
+        },
+        {
+          "text": "dispositionsret",
+          "spans_multiple_words": false,
+          "spans_line_break": true,
+          "position": "strip 3",
+          "confidence": "certain"
+        },
+        {
+          "text": "skrevet",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "position": "strip 5",
+          "confidence": "certain"
+        },
+        {
+          "text": "andre",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "position": "strip 2",
+          "confidence": "certain"
+        },
+        {
+          "text": "døden",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "position": "strip 4",
+          "confidence": "certain"
+        },
+        {
+          "text": "sige",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "position": "strip 1",
+          "confidence": "certain"
+        }
+      ],
+      "usage_note": "6 API calls"
+    },
+    {
+      "file": "fas001_2",
+      "model": "claude-opus-4-7",
+      "underlinings": [
+        {
+          "text": "virkelige",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "position": "strip 5",
+          "confidence": "certain"
+        }
+      ],
+      "usage_note": "6 API calls"
+    },
+    {
+      "file": "fbad007_4",
+      "model": "claude-opus-4-7",
+      "underlinings": [
+        {
+          "text": "det bedste efter mit Skjøn",
+          "spans_multiple_words": true,
+          "spans_line_break": false,
+          "position": "strip 2",
+          "confidence": "certain"
+        },
+        {
+          "text": "U S. America",
+          "spans_multiple_words": true,
+          "spans_line_break": false,
+          "position": "strip 6",
+          "confidence": "certain"
+        },
+        {
+          "text": "Kuez Kowski",
+          "spans_multiple_words": true,
+          "spans_line_break": true,
+          "position": "strip 1",
+          "confidence": "certain"
+        },
+        {
+          "text": "Vandkuren",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "position": "strip 1",
+          "confidence": "probable"
+        },
+        {
+          "text": "der er",
+          "spans_multiple_words": true,
+          "spans_line_break": false,
+          "position": "strip 1",
+          "confidence": "certain"
+        }
+      ],
+      "usage_note": "6 API calls"
+    },
+    {
+      "file": "fbb019_1",
+      "model": "claude-opus-4-7",
+      "underlinings": [
+        {
+          "text": "aldrig",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "position": "strip 2",
+          "confidence": "certain"
+        }
+      ],
+      "usage_note": "6 API calls"
+    },
+    {
+      "file": "fbbx006_2",
+      "model": "claude-opus-4-7",
+      "underlinings": [
+        {
+          "text": "jeg, mellem os, vil aabne",
+          "spans_multiple_words": true,
+          "spans_line_break": false,
+          "position": "strip 4",
+          "confidence": "certain"
+        }
+      ],
+      "usage_note": "6 API calls"
+    },
+    {
+      "file": "fbf003_2",
+      "model": "claude-opus-4-7",
+      "underlinings": [
+        {
+          "text": "maa",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "position": "strip 1",
+          "confidence": "certain"
+        }
+      ],
+      "usage_note": "6 API calls"
+    },
+    {
+      "file": "fbf072_2",
+      "model": "claude-opus-4-7",
+      "underlinings": [
+        {
+          "text": "stille",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "position": "strip 5",
+          "confidence": "certain"
+        },
+        {
+          "text": "hun",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "position": "strip 2",
+          "confidence": "certain"
+        }
+      ],
+      "usage_note": "6 API calls"
+    },
+    {
+      "file": "fbhl001_1",
+      "model": "claude-opus-4-7",
+      "underlinings": [
+        {
+          "text": "eneste",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "position": "strip 4",
+          "confidence": "certain"
+        }
+      ],
+      "usage_note": "6 API calls"
+    },
+    {
+      "file": "fbio001_2",
+      "model": "claude-opus-4-7",
+      "underlinings": [
+        {
+          "text": "saa smaat",
+          "spans_multiple_words": true,
+          "spans_line_break": true,
+          "position": "strip 3",
+          "confidence": "certain"
+        },
+        {
+          "text": "skal",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "position": "strip 4",
+          "confidence": "certain"
+        }
+      ],
+      "usage_note": "6 API calls"
+    },
+    {
+      "file": "fbio002_2",
+      "model": "claude-opus-4-7",
+      "underlinings": [
+        {
+          "text": "vidunderlige",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "position": "strip 1",
+          "confidence": "certain"
+        }
+      ],
+      "usage_note": "6 API calls"
+    },
+    {
+      "file": "fbmm004_1",
+      "model": "claude-opus-4-7",
+      "underlinings": [
+        {
+          "text": "burde",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "position": "strip 3",
+          "confidence": "certain"
+        },
+        {
+          "text": "ikke",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "position": "strip 6",
+          "confidence": "certain"
+        }
+      ],
+      "usage_note": "6 API calls"
+    },
+    {
+      "file": "fbmx002_2",
+      "model": "claude-opus-4-7",
+      "underlinings": [
+        {
+          "text": "Deres Hel- bred",
+          "spans_multiple_words": true,
+          "spans_line_break": true,
+          "position": "strip 3",
+          "confidence": "certain"
+        },
+        {
+          "text": "Dirigentposten",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "position": "strip 1",
+          "confidence": "certain"
+        },
+        {
+          "text": "ikke",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "position": "strip 4",
+          "confidence": "certain"
+        }
+      ],
+      "usage_note": "6 API calls"
+    },
+    {
+      "file": "fboz003_1",
+      "model": "claude-opus-4-7",
+      "underlinings": [
+        {
+          "text": "meget",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "position": "strip 6",
+          "confidence": "certain"
+        }
+      ],
+      "usage_note": "6 API calls"
+    },
+    {
+      "file": "fchz016_2",
+      "model": "claude-opus-4-7",
+      "underlinings": [
+        {
+          "text": "weiteres",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "position": "strip 6",
+          "confidence": "certain"
+        },
+        {
+          "text": "Deres",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "position": "strip 2",
+          "confidence": "certain"
+        },
+        {
+          "text": "bis",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "position": "strip 6",
+          "confidence": "certain"
+        },
+        {
+          "text": "auf",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "position": "strip 6",
+          "confidence": "certain"
+        }
+      ],
+      "usage_note": "6 API calls"
+    },
+    {
+      "file": "fgab001_2",
+      "model": "claude-opus-4-7",
+      "underlinings": [
+        {
+          "text": "straks i vort første Komitémøde",
+          "spans_multiple_words": true,
+          "spans_line_break": false,
+          "position": "strip 3",
+          "confidence": "certain"
+        },
+        {
+          "text": "norske Toneværkers Opførelse",
+          "spans_multiple_words": true,
+          "spans_line_break": true,
+          "position": "strip 4",
+          "confidence": "certain"
+        },
+        {
+          "text": "samlet udenlandsk Orkester",
+          "spans_multiple_words": true,
+          "spans_line_break": true,
+          "position": "strip 4",
+          "confidence": "certain"
+        },
+        {
+          "text": "rimelige Vilkår",
+          "spans_multiple_words": true,
+          "spans_line_break": true,
+          "position": "strip 4",
+          "confidence": "certain"
+        },
+        {
+          "text": "Fugl eller Fisk",
+          "spans_multiple_words": true,
+          "spans_line_break": false,
+          "position": "strip 5",
+          "confidence": "probable"
+        },
+        {
+          "text": "just og kun",
+          "spans_multiple_words": true,
+          "spans_line_break": false,
+          "position": "strip 4",
+          "confidence": "probable"
+        },
+        {
+          "text": "alligevel",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "position": "strip 4",
+          "confidence": "probable"
+        },
+        {
+          "text": "lidet",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "position": "strip 2",
+          "confidence": "certain"
+        },
+        {
+          "text": "Kage",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "position": "strip 5",
+          "confidence": "probable"
+        }
+      ],
+      "usage_note": "6 API calls"
+    },
+    {
+      "file": "fgb002_1",
+      "model": "claude-opus-4-7",
+      "underlinings": [
+        {
+          "text": "fordi",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "position": "strip 3",
+          "confidence": "probable"
+        },
+        {
+          "text": "Ingen",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "position": "strip 3",
+          "confidence": "certain"
+        },
+        {
+          "text": "hele",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "position": "strip 5",
+          "confidence": "certain"
+        },
+        {
+          "text": "saa",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "position": "strip 3",
+          "confidence": "certain"
+        },
+        {
+          "text": "du",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "position": "strip 3",
+          "confidence": "certain"
+        }
+      ],
+      "usage_note": "6 API calls"
+    },
+    {
+      "file": "fgb007_1",
+      "model": "claude-opus-4-7",
+      "underlinings": [
+        {
+          "text": "ikke",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "position": "strip 4",
+          "confidence": "certain"
+        }
+      ],
+      "usage_note": "6 API calls"
+    },
+    {
+      "file": "fhk027_1",
+      "model": "claude-opus-4-7",
+      "underlinings": [
+        {
+          "text": "efter eget Initiativ",
+          "spans_multiple_words": true,
+          "spans_line_break": false,
+          "position": "strip 3",
+          "confidence": "certain"
+        },
+        {
+          "text": "tilstille",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "position": "strip 4",
+          "confidence": "certain"
+        }
+      ],
+      "usage_note": "6 API calls"
+    },
+    {
+      "file": "fhka006_3",
+      "model": "claude-opus-4-7",
+      "underlinings": [
+        {
+          "text": "uædru",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "position": "strip 4",
+          "confidence": "certain"
+        }
+      ],
+      "usage_note": "6 API calls"
+    },
+    {
+      "file": "fisx001_1",
+      "model": "claude-opus-4-7",
+      "underlinings": [
+        {
+          "text": "Navn blir",
+          "spans_multiple_words": true,
+          "spans_line_break": false,
+          "position": "strip 5",
+          "confidence": "probable"
+        },
+        {
+          "text": "gjerne",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "position": "strip 2",
+          "confidence": "certain"
+        },
+        {
+          "text": "nævnt",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "position": "strip 5",
+          "confidence": "probable"
+        },
+        {
+          "text": "uden",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "position": "strip 4",
+          "confidence": "certain"
+        }
+      ],
+      "usage_note": "6 API calls"
+    },
+    {
+      "file": "foo002_2",
+      "model": "claude-opus-4-7",
+      "underlinings": [
+        {
+          "text": "det er velment",
+          "spans_multiple_words": true,
+          "spans_line_break": false,
+          "position": "strip 4",
+          "confidence": "certain"
+        },
+        {
+          "text": "et Hald",
+          "spans_multiple_words": true,
+          "spans_line_break": false,
+          "position": "strip 3",
+          "confidence": "certain"
+        }
+      ],
+      "usage_note": "6 API calls"
+    },
+    {
+      "file": "no-nb_digimanus_214549_0001",
+      "model": "claude-opus-4-7",
+      "underlinings": [
+        {
+          "text": "før",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "position": "strip 5",
+          "confidence": "certain"
+        }
+      ],
+      "usage_note": "6 API calls"
+    },
+    {
+      "file": "no-nb_digimanus_21565_0001",
+      "model": "claude-opus-4-7",
+      "underlinings": [],
+      "usage_note": "6 API calls"
+    },
+    {
+      "file": "no-nb_digimanus_249940_0001",
+      "model": "claude-opus-4-7",
+      "underlinings": [
+        {
+          "text": "vil",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "position": "strip 4",
+          "confidence": "certain"
+        }
+      ],
+      "usage_note": "6 API calls"
+    },
+    {
+      "file": "no-nb_digimanus_25418_0001",
+      "model": "claude-opus-4-7",
+      "underlinings": [
+        {
+          "text": "uden hr Vigelands samtykke",
+          "spans_multiple_words": true,
+          "spans_line_break": false,
+          "position": "strip 4",
+          "confidence": "certain"
+        }
+      ],
+      "usage_note": "6 API calls"
+    },
+    {
+      "file": "no-nb_digimanus_258173_0001",
+      "model": "claude-opus-4-7",
+      "underlinings": [
+        {
+          "text": "merki",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "position": "strip 3",
+          "confidence": "certain"
+        },
+        {
+          "text": "III",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "position": "strip 6",
+          "confidence": "certain"
+        }
+      ],
+      "usage_note": "6 API calls"
+    },
+    {
+      "file": "no-nb_digimanus_258197_0001",
+      "model": "claude-opus-4-7",
+      "underlinings": [
+        {
+          "text": "ikke under nogen omstændighed",
+          "spans_multiple_words": true,
+          "spans_line_break": true,
+          "position": "strip 4",
+          "confidence": "certain"
+        }
+      ],
+      "usage_note": "6 API calls"
+    },
+    {
+      "file": "no-nb_digimanus_258197_0002",
+      "model": "claude-opus-4-7",
+      "underlinings": [
+        {
+          "text": "hverken har lyst eller evne",
+          "spans_multiple_words": true,
+          "spans_line_break": true,
+          "position": "strip 4",
+          "confidence": "certain"
+        },
+        {
+          "text": "denne anvendelse",
+          "spans_multiple_words": true,
+          "spans_line_break": true,
+          "position": "strip 6",
+          "confidence": "certain"
+        },
+        {
+          "text": "Hvad jeg",
+          "spans_multiple_words": true,
+          "spans_line_break": false,
+          "position": "strip 4",
+          "confidence": "certain"
+        }
+      ],
+      "usage_note": "6 API calls"
+    },
+    {
+      "file": "no-nb_digimanus_311001_0001",
+      "model": "claude-opus-4-7",
+      "underlinings": [
+        {
+          "text": "tilfælde",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "position": "strip 4",
+          "confidence": "certain"
+        }
+      ],
+      "usage_note": "6 API calls"
+    },
+    {
+      "file": "no-nb_digimanus_313806_0002",
+      "model": "claude-opus-4-7",
+      "underlinings": [
+        {
+          "text": "trods alt",
+          "spans_multiple_words": true,
+          "spans_line_break": false,
+          "position": "strip 2",
+          "confidence": "certain"
+        }
+      ],
+      "usage_note": "6 API calls"
+    },
+    {
+      "file": "no-nb_digimanus_317348_0001",
+      "model": "claude-opus-4-7",
+      "underlinings": [
+        {
+          "text": "må",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "position": "strip 3",
+          "confidence": "certain"
+        }
+      ],
+      "usage_note": "6 API calls"
+    },
+    {
+      "file": "no-nb_digimanus_52618_0001",
+      "model": "claude-opus-4-7",
+      "underlinings": [
+        {
+          "text": "i opvarmet Rum",
+          "spans_multiple_words": true,
+          "spans_line_break": false,
+          "position": "strip 6",
+          "confidence": "certain"
+        },
+        {
+          "text": "Frottering",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "position": "strip 5",
+          "confidence": "certain"
+        },
+        {
+          "text": "absolut",
+          "spans_multiple_words": false,
+          "spans_line_break": false,
+          "position": "strip 4",
+          "confidence": "certain"
+        }
+      ],
+      "usage_note": "6 API calls"
+    },
+    {
+      "file": "no-nb_digimanus_52747_0001",
+      "model": "claude-opus-4-7",
+      "underlinings": [
+        {
+          "text": "bestemt Dag i hver eneste Uke",
+          "spans_multiple_words": true,
+          "spans_line_break": true,
+          "position": "strip 4",
+          "confidence": "certain"
+        },
+        {
+          "text": "Ingen Utsættelse",
+          "spans_multiple_words": true,
+          "spans_line_break": false,
+          "position": "strip 4",
+          "confidence": "certain"
+        }
+      ],
+      "usage_note": "6 API calls"
+    },
+    {
+      "file": "no-nb_digimanus_55495_0003",
+      "model": "claude-opus-4-7",
+      "underlinings": [
+        {
+          "text": "telegrafere dette til mig",
+          "spans_multiple_words": true,
+          "spans_line_break": true,
+          "position": "strip 2",
+          "confidence": "certain"
+        }
+      ],
+      "usage_note": "6 API calls"
+    },
+    {
+      "file": "no-nb_digimanus_73009_0001",
+      "model": "claude-opus-4-7",
+      "underlinings": [
+        {
+          "text": "Jeg tar ikke Langfeldts Navn ut av min Bok.",
+          "spans_multiple_words": true,
+          "spans_line_break": false,
+          "position": "strip 4",
+          "confidence": "certain"
+        }
+      ],
+      "usage_note": "6 API calls"
+    }
+  ],
+  "errors": []
+}

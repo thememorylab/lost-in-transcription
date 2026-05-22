@@ -1,0 +1,91 @@
+file,text,spans_multiple_words,spans_line_break,confidence,notes,document_notes
+no-nb_digimanus_313806_0002,trods,FALSE,FALSE,certain,clear and distinct,"Clear, decipherable text"
+no-nb_digimanus_313806_0002,alt,FALSE,FALSE,certain,clear and distinct,"Clear, decipherable text"
+0001_page_19741519_docId_477905,stormer,FALSE,FALSE,certain,fine line but clear,"Clear, decipherable text but potential confusion with crossbar of t"
+0001_page_19741519_docId_477905,regner,FALSE,FALSE,certain,fine line but clear,"Clear, decipherable text but potential confusion with crossbar of t"
+0001_page_19741519_docId_477905,skal ,FALSE,FALSE,certain,fine line but clear,"Clear, decipherable text but potential confusion with crossbar of t"
+0001_page_19741519_docId_477905,alle,FALSE,FALSE,certain,fine line but clear,"Clear, decipherable text but potential confusion with crossbar of t"
+no-nb_digimanus_73009_0001,Jeg tar ikke Langfeldts Navn ut av min Bok.,TRUE,FALSE,certain,"continuous line, clear and distinct",Clear format
+no-nb_digimanus_52747_0001,bestemt Dag i hver eneste Uke,TRUE,TRUE,certain,"continuous line spanning two lines, clear and distinct",Clear format
+no-nb_digimanus_52618_0001,absolut,FALSE,FALSE,certain,clear and distinct,Handwriting slightly more condensed at bottom of page
+no-nb_digimanus_52618_0001,i opvarmet Rum,TRUE,FALSE,certain,"continuous line, clear and distinct",Handwriting slightly more condensed at bottom of page
+no-nb_digimanus_317348_0001,må,FALSE,FALSE,certain,clear and distinct,Confusion may arise due to use of hyphens that resembel underlining
+no-nb_digimanus_311001_0001,i tilfælde,TRUE,FALSE,certain,clear and distinct,Clear
+no-nb_digimanus_258197_0002,hverken har lyst eller evne,TRUE,TRUE,certain,"continuous line spanning two lines, clear and distinct",Clear
+no-nb_digimanus_258197_0002,denne anvendelse,TRUE,TRUE,certain,"line begins under or just after i, runs clearly under denne — boundary of i ambiguous, probable intent to underline both",Clear
+no-nb_digimanus_258197_0001,ikke under nogen omstændighed,TRUE,TRUE,certain,"continuous line spanning two lines, clear and distinct but word under is smudged",Clear except for the smudged word
+no-nb_digimanus_25418_0001,uden,FALSE,FALSE,certain,clear and distinct,Clear even though handwriting is small
+no-nb_digimanus_214549_0001,før,FALSE,FALSE,certain,clear and distinct,Clear
+fhka006_3,ædru,FALSE,FALSE,certain,clear and distinct,Clear enough
+fhka006_3,uædru,FALSE,FALSE,probable,"clear and distinct but onlig the letter u in part of the word uædruelige that spans over 2 lines
+elige is on next line without hypen",Clear enough
+fhk027_1,efter eget Initiativ,TRUE,FALSE,certain,"continuous line, clear and distinct",Clear and tidy
+fgb007_1,ikke,FALSE,FALSE,certain,clear but not very distinct,Line is very close to word
+fgb002_1,Ingen,FALSE,FALSE,certain,"partial underline — line runs beneath middle section of word only, does not extend full width",Fine handwriting with low contrast and clarity affected by ink bleed from verso
+fgb002_1,Ingen,FALSE,FALSE,certain,"partial underline — line runs beneath middle section of word only, does not extend full width",Fine handwriting with low contrast and clarity affected by ink bleed from verso
+fgb002_1,hele,FALSE,FALSE,certain,"partial underline — line runs beneath middle section of word only, does not extend full width;",Fine handwriting with low contrast and clarity affected by ink bleed from verso
+fboz003_1,meget,FALSE,FALSE,certain,clear and distinct ,Potential confusion with word Tekst that has marked crossbars on t
+fbmx002_2,netop,FALSE,FALSE,certain,clear,"Document contains heavy decorative flourishes— increases risk of false positives for automated detection, baseline noise high"
+fbmx002_2,saafremt Deres Hel- bred tillader det,TRUE,TRUE,certain,clear ,"document contains heavy decorative flourishes— increases risk of false positives for automated detection, baseline noise high"
+fbmx002_2,ikke,FALSE,FALSE,certain,clear ,"document contains heavy decorative flourishes— increases risk of false positives for automated detection, baseline noise high"
+fbmm004_1,burde,FALSE,FALSE,probable,"partial underline — line runs beneath middle section of word only, does not extend full width",Tidy document
+fbmm004_1,ikke,FALSE,FALSE,probable,"partial underline — line runs beneath middle section of word only, does not extend full width",Tidy document
+fbio002_2,vidunderlige,FALSE,FALSE,certain,"partial underline — line runs beneath middle section of word only, does not extend full width but clear and distinct",Risk of confusion due to style of handwriting
+fbio001_2,skal,FALSE,FALSE,certain,clear,Document contains decorative flourishes and potential confusion with crossbar of t
+fbhl001_1,eneste,FALSE,FALSE,certain,clear and distinct,Clear document
+fbf072_2,hun,FALSE,FALSE,certain,clear and distinct,Document contains decorative flourishes
+fbf072_2,stille,FALSE,FALSE,certain,clear and distinct,Document contains decorative flourishes
+fbf003_2,maa,FALSE,FALSE,certain,clear,Document contains decorative flourishes where the letter d curls upwards and the letter T has a significant line
+fbbx006_2,mellem os,TRUE,FALSE,certain,clear and distinct,Clear
+fbb019_1,aldrig,FALSE,FALSE,certain,clear,Document contains heavy decorative flourishes
+fas001_2,ord,FALSE,FALSE,uncertain,clear underline but ord is added above another word,Clear
+fas001_2,virkelige,FALSE,FALSE,certain,clear and distinct,Clear
+31a3f9df1d3596f7d2f977c06bb5f423-71720-0015,milli-oner,FALSE,TRUE,certain,clear,Document contains heavy decorative flourishes
+31a3f9df1d3596f7d2f977c06bb5f423-71720-0015,Liechtensteins galleri,TRUE,FALSE,certain,clear ,document contains heavy decorative flourishes
+31a3f9df1d3596f7d2f977c06bb5f423-71720-0015,det vidunderligste galleri jeg endnu har seet,TRUE,TRUE,certain,clear,document contains heavy decorative flourishes
+0003_page_19741502_docId_477905,momentan,FALSE,FALSE,certain,clear and distinct,Document is clear but a visible smudge
+0002_page_19741487_docId_477905,et,FALSE,FALSE,certain,easy to miss,handwriting style is quite decorative and possibly confusing
+0002_page_19741487_docId_477905,fortvivlelse,FALSE,FALSE,certain,very fine line,handwriting style is quite decorative and possibly confusing
+0001_page_19741593_docId_477905,Tusind,FALSE,FALSE,certain,fine line but clear,Potential confusion with crossbar of t and placement at top corner of document might be an issue.
+0001_page_19741593_docId_477905,meget,FALSE,FALSE,certain,fine line but clear,potential confusion with crossbar of t
+no-nb_digimanus_249940_0001,vil,FALSE,FALSE,certain,clear and distinct,
+no-nb_digimanus_258173_0001,merki,FALSE,FALSE,certain,clear and distinct,clear document
+31a3f9df1d3596f7d2f977c06bb5f423-71720-0047,Norge,FALSE,FALSE,certain,visible line but can be confusing because of style og g,expressive style with flourishes and many different types of underlinings
+31a3f9df1d3596f7d2f977c06bb5f423-71720-0047,andre,FALSE,FALSE,certain,"thick emphatic underline, distinct from decorative strokes",expressive style with flourishes and many different types of underlinings
+31a3f9df1d3596f7d2f977c06bb5f423-71720-0047,for fremtidens skyld!,TRUE,FALSE,certain,distinct line that is slightly faded under for,expressive style with flourishes and many different types of underlinings
+31a3f9df1d3596f7d2f977c06bb5f423-71720-0047,Gjør en forandring,TRUE,TRUE,certain,"Multiple lines under gjør en, single line under forandring",expressive style with flourishes and many different types of underlinings
+31a3f9df1d3596f7d2f977c06bb5f423-71720-0047,dispo-sitionsret,FALSE,TRUE,certain,"continuous line spanning two lines, clear and distinct",expressive style with flourishes and many different types of underlinings
+31a3f9df1d3596f7d2f977c06bb5f423-71720-0047,"Ja - ja, - jeg har for en gangs skyld sagt min mening",TRUE,TRUE,uncertain,"continuous line spanning two lines, clear and distinct",expressive style with flourishes and many different types of underlinings
+31a3f9df1d3596f7d2f977c06bb5f423-71720-0047,døden,FALSE,FALSE,certain,Clear and distinct,expressive style with flourishes and many different types of underlinings
+31a3f9df1d3596f7d2f977c06bb5f423-71720-0047,skrevet,FALSE,FALSE,certain,"thin line, probable — difficult to distinguish from baseline flourish",expressive style with flourishes and many different types of underlinings
+fbad007_4,du,FALSE,FALSE,probable,visible line but relatively large spce between word and line,"document contains heavy decorative flourishes, clarity affected by ink bleed from verso, baseline noise high"
+fbad007_4,Kuez Kowski,TRUE,TRUE,certain,"continuous line spanning two lines, clear and distinct","Document contains heavy decorative flourishes, clarity affected by ink bleed from verso, baseline noise high"
+fbad007_4,der er,TRUE,FALSE,certain,"continuous line,clear and distinct","Document contains heavy decorative flourishes, clarity affected by ink bleed from verso, baseline noise high"
+fbad007_4,det beste,TRUE,FALSE,certain,"continuous line,clear and distinct","Document contains heavy decorative flourishes, clarity affected by ink bleed from verso, baseline noise high"
+fbad007_4,selv,FALSE,FALSE,certain,"double lines, clear ","Document contains heavy decorative flourishes, clarity affected by ink bleed from verso, baseline noise high"
+fbad007_4,U S. America,TRUE,FALSE,certain,clear continuous line ,"Document contains heavy decorative flourishes, clarity affected by ink bleed from verso, baseline noise high. Positioned at bottom of page, possibility of confusion with signature"
+foo002_2,et,FALSE,FALSE,certain,very fineline close to word,Clear document but low contrast writing
+foo002_2,det er velment,TRUE,FALSE,certain,clear continuous line ,Clear document but low contrast writing
+fgab001_2,denne,FALSE,FALSE,certain,fine curled line that ressembles a flourish,"document contains heavy decorative flourishes, clarity affected by ink bleed from verso, baseline noise high and confusion with pronounced crossbars on t letters"
+fgab001_2,liget,FALSE,FALSE,certain,distinct line,"document contains heavy decorative flourishes, clarity affected by ink bleed from verso, baseline noise high and confusion with pronounced crossbars on t letters"
+fgab001_2,imponerende,FALSE,FALSE,certain,partial underline — line runs beneath middle section of word only and possible confusion with crossbar of t,"document contains heavy decorative flourishes, clarity affected by ink bleed from verso, baseline noise high and confusion with pronounced crossbars on t letters"
+fgab001_2,straks,FALSE,FALSE,certain,clear and distinct line,"document contains heavy decorative flourishes, clarity affected by ink bleed from verso, baseline noise high and confusion with pronounced crossbars on t letters"
+fgab001_2,første,FALSE,FALSE,certain,Clear line but possible confusion with crossbar of t in surrounding words,"document contains heavy decorative flourishes, clarity affected by ink bleed from verso, baseline noise high and confusion with pronounced crossbars on t letters"
+fgab001_2,udenlansk,FALSE,FALSE,certain,Clear line but possible confusion with crossbar of t in surrounding words,"document contains heavy decorative flourishes, clarity affected by ink bleed from verso, baseline noise high and confusion with pronounced crossbars on t letters"
+fgab001_2,rimelige,FALSE,FALSE,certain,Visible ine but possible confusion with crossbar of t in surrounding words,"document contains heavy decorative flourishes, clarity affected by ink bleed from verso, baseline noise high and confusion with pronounced crossbars on t letters"
+fgab001_2,alligevel,FALSE,FALSE,certain,Visible ine but possible confusion with crossbar of t in surrounding words,"document contains heavy decorative flourishes, clarity affected by ink bleed from verso, baseline noise high and confusion with pronounced crossbars on t letters"
+fgab001_2,just,FALSE,FALSE,certain,Visble and distinct line,"document contains heavy decorative flourishes, clarity affected by ink bleed from verso, baseline noise high and confusion with pronounced crossbars on t letters"
+fgab001_2,kun,FALSE,FALSE,certain,visible and distinct line,"document contains heavy decorative flourishes, clarity affected by ink bleed from verso, baseline noise high and confusion with pronounced crossbars on t letters"
+fisx001_1,gjerne,FALSE,FALSE,uncertain,small line at end of word only under e,"Document contains decorative flourishes and due to use of hyphens and lines in handwriting, likely low accuracy"
+fisx001_1,medfølgende,FALSE,FALSE,uncertain,small line in middle of word and confusingly close to word in line underneath,"Document contains decorative flourishes and due to use of hyphens and lines in handwriting, likely low accuracy"
+fisx001_1,om,FALSE,FALSE,uncertain,small line in middle of word,"Document contains decorative flourishes and due to use of hyphens and lines in handwriting, likely low accuracy"
+fisx001_1,ske,FALSE,FALSE,probable,line is visble but may be confusion due to use of many hyphenations,"Document contains decorative flourishes and due to use of hyphens and lines in handwriting, likely low accuracy"
+fisx001_1,uden,FALSE,FALSE,probable,line is visble but may be confusion due to use of many hyphenations,"Document contains decorative flourishes and due to use of hyphens and lines in handwriting, likely low accuracy"
+fisx001_1,meget,FALSE,FALSE,uncertain,small line only under m,"Document contains decorative flourishes and due to use of hyphens and lines in handwriting, likely low accuracy"
+no-nb_digimanus_55495_0003,telegrafere dette til mig,TRUE,TRUE,certain,"continuous line spanning two lines, clear and distinct",Document is clear although some strikethroughs
+no-nb_digimanus_55495_0003,telegrafere,FALSE,FALSE,certain,clear,Document is clear although some strikethroughs
+fchz016_2,Deres,FALSE,FALSE,certain,clear line,"document contains flourishes and correction, clarity affected by ink bleed from verso"
+fchz016_2,bis,FALSE,FALSE,certain,clear line,"document contains flourishes and correction, clarity affected by ink bleed from verso"
+fchz016_2,auf,FALSE,FALSE,certain,clear line,"document contains flourishes and correction, clarity affected by ink bleed from verso"
+fchz016_2,weiteres,FALSE,FALSE,certain,clear line,"document contains flourishes and correction, clarity affected by ink bleed from verso"
+no-nb_digimanus_21565_0001,for,FALSE,FALSE,certain,clear,Line is visible but may blend in style of writing

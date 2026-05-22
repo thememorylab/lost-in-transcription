@@ -1,0 +1,1069 @@
+{
+  "model_used": "claude-opus-4-7",
+  "overall": {
+    "true_positives": 66,
+    "false_positives": 25,
+    "false_negatives": 23,
+    "precision": 0.725,
+    "recall": 0.742,
+    "f1": 0.733
+  },
+  "by_letter": [
+    {
+      "true_positives": 4,
+      "false_positives": 0,
+      "false_negatives": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "matches": [
+        {
+          "gt_text": "stormer",
+          "pred_text": "stormer",
+          "match_type": "exact",
+          "gt_confidence": "certain",
+          "pred_confidence": "certain"
+        },
+        {
+          "gt_text": "regner",
+          "pred_text": "regner",
+          "match_type": "exact",
+          "gt_confidence": "certain",
+          "pred_confidence": "certain"
+        },
+        {
+          "gt_text": "skal",
+          "pred_text": "skal",
+          "match_type": "exact",
+          "gt_confidence": "certain",
+          "pred_confidence": "certain"
+        },
+        {
+          "gt_text": "alle",
+          "pred_text": "alle",
+          "match_type": "exact",
+          "gt_confidence": "certain",
+          "pred_confidence": "certain"
+        }
+      ],
+      "missed": [],
+      "extra": [],
+      "file": "0001_page_19741519_docId_477905"
+    },
+    {
+      "true_positives": 2,
+      "false_positives": 0,
+      "false_negatives": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "matches": [
+        {
+          "gt_text": "Tusind",
+          "pred_text": "Tusind",
+          "match_type": "exact",
+          "gt_confidence": "certain",
+          "pred_confidence": "certain"
+        },
+        {
+          "gt_text": "meget",
+          "pred_text": "meget",
+          "match_type": "exact",
+          "gt_confidence": "certain",
+          "pred_confidence": "certain"
+        }
+      ],
+      "missed": [],
+      "extra": [],
+      "file": "0001_page_19741593_docId_477905"
+    },
+    {
+      "true_positives": 2,
+      "false_positives": 0,
+      "false_negatives": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "matches": [
+        {
+          "gt_text": "et",
+          "pred_text": "et",
+          "match_type": "exact",
+          "gt_confidence": "certain",
+          "pred_confidence": "certain"
+        },
+        {
+          "gt_text": "fortvivlelse",
+          "pred_text": "fortvivlelse",
+          "match_type": "exact",
+          "gt_confidence": "certain",
+          "pred_confidence": "certain"
+        }
+      ],
+      "missed": [],
+      "extra": [],
+      "file": "0002_page_19741487_docId_477905"
+    },
+    {
+      "true_positives": 1,
+      "false_positives": 1,
+      "false_negatives": 0,
+      "precision": 0.5,
+      "recall": 1.0,
+      "f1": 0.667,
+      "matches": [
+        {
+          "gt_text": "momentan",
+          "pred_text": "momentan",
+          "match_type": "exact",
+          "gt_confidence": "certain",
+          "pred_confidence": "certain"
+        }
+      ],
+      "missed": [],
+      "extra": [
+        "trøste"
+      ],
+      "file": "0003_page_19741502_docId_477905"
+    },
+    {
+      "true_positives": 3,
+      "false_positives": 2,
+      "false_negatives": 0,
+      "precision": 0.6,
+      "recall": 1.0,
+      "f1": 0.75,
+      "matches": [
+        {
+          "gt_text": "milli-oner",
+          "pred_text": "milli-oner",
+          "match_type": "exact",
+          "gt_confidence": "certain",
+          "pred_confidence": "certain"
+        },
+        {
+          "gt_text": "Liechtensteins galleri",
+          "pred_text": "Liechtensteins galleri",
+          "match_type": "exact",
+          "gt_confidence": "certain",
+          "pred_confidence": "certain"
+        },
+        {
+          "gt_text": "det vidunderligste galleri jeg endnu har seet",
+          "pred_text": "det vidunderligste galleri jeg endnu har seet",
+          "match_type": "exact",
+          "gt_confidence": "certain",
+          "pred_confidence": "certain"
+        }
+      ],
+      "missed": [],
+      "extra": [
+        "Bruegel",
+        "stængt"
+      ],
+      "file": "31a3f9df1d3596f7d2f977c06bb5f423-71720-0015"
+    },
+    {
+      "true_positives": 6,
+      "false_positives": 2,
+      "false_negatives": 2,
+      "precision": 0.75,
+      "recall": 0.75,
+      "f1": 0.75,
+      "matches": [
+        {
+          "gt_text": "Norge",
+          "pred_text": "tilbake til Norge",
+          "match_type": "partial",
+          "gt_confidence": "certain",
+          "pred_confidence": "certain"
+        },
+        {
+          "gt_text": "andre",
+          "pred_text": "andre",
+          "match_type": "exact",
+          "gt_confidence": "certain",
+          "pred_confidence": "certain"
+        },
+        {
+          "gt_text": "for fremtidens skyld!",
+          "pred_text": "for fremtidens skyld!",
+          "match_type": "exact",
+          "gt_confidence": "certain",
+          "pred_confidence": "certain"
+        },
+        {
+          "gt_text": "Gjør en forandring",
+          "pred_text": "Gjør en forandring",
+          "match_type": "exact",
+          "gt_confidence": "certain",
+          "pred_confidence": "certain"
+        },
+        {
+          "gt_text": "døden",
+          "pred_text": "døden",
+          "match_type": "exact",
+          "gt_confidence": "certain",
+          "pred_confidence": "certain"
+        },
+        {
+          "gt_text": "skrevet",
+          "pred_text": "skrevet",
+          "match_type": "exact",
+          "gt_confidence": "certain",
+          "pred_confidence": "certain"
+        }
+      ],
+      "missed": [
+        "dispo-sitionsret",
+        "Ja - ja, - jeg har for en gangs skyld sagt min mening"
+      ],
+      "extra": [
+        "dispositionsret",
+        "sige"
+      ],
+      "file": "31a3f9df1d3596f7d2f977c06bb5f423-71720-0047"
+    },
+    {
+      "true_positives": 1,
+      "false_positives": 0,
+      "false_negatives": 1,
+      "precision": 1.0,
+      "recall": 0.5,
+      "f1": 0.667,
+      "matches": [
+        {
+          "gt_text": "virkelige",
+          "pred_text": "virkelige",
+          "match_type": "exact",
+          "gt_confidence": "certain",
+          "pred_confidence": "certain"
+        }
+      ],
+      "missed": [
+        "ord"
+      ],
+      "extra": [],
+      "file": "fas001_2"
+    },
+    {
+      "true_positives": 3,
+      "false_positives": 2,
+      "false_negatives": 3,
+      "precision": 0.6,
+      "recall": 0.5,
+      "f1": 0.545,
+      "matches": [
+        {
+          "gt_text": "Kuez Kowski",
+          "pred_text": "Kuez Kowski",
+          "match_type": "exact",
+          "gt_confidence": "certain",
+          "pred_confidence": "certain"
+        },
+        {
+          "gt_text": "der er",
+          "pred_text": "der er",
+          "match_type": "exact",
+          "gt_confidence": "certain",
+          "pred_confidence": "certain"
+        },
+        {
+          "gt_text": "U S. America",
+          "pred_text": "U S. America",
+          "match_type": "exact",
+          "gt_confidence": "certain",
+          "pred_confidence": "certain"
+        }
+      ],
+      "missed": [
+        "du",
+        "det beste",
+        "selv"
+      ],
+      "extra": [
+        "det bedste efter mit Skjøn",
+        "Vandkuren"
+      ],
+      "file": "fbad007_4"
+    },
+    {
+      "true_positives": 1,
+      "false_positives": 0,
+      "false_negatives": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "matches": [
+        {
+          "gt_text": "aldrig",
+          "pred_text": "aldrig",
+          "match_type": "exact",
+          "gt_confidence": "certain",
+          "pred_confidence": "certain"
+        }
+      ],
+      "missed": [],
+      "extra": [],
+      "file": "fbb019_1"
+    },
+    {
+      "true_positives": 1,
+      "false_positives": 0,
+      "false_negatives": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "matches": [
+        {
+          "gt_text": "mellem os",
+          "pred_text": "jeg, mellem os, vil aabne",
+          "match_type": "partial",
+          "gt_confidence": "certain",
+          "pred_confidence": "certain"
+        }
+      ],
+      "missed": [],
+      "extra": [],
+      "file": "fbbx006_2"
+    },
+    {
+      "true_positives": 1,
+      "false_positives": 0,
+      "false_negatives": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "matches": [
+        {
+          "gt_text": "maa",
+          "pred_text": "maa",
+          "match_type": "exact",
+          "gt_confidence": "certain",
+          "pred_confidence": "certain"
+        }
+      ],
+      "missed": [],
+      "extra": [],
+      "file": "fbf003_2"
+    },
+    {
+      "true_positives": 2,
+      "false_positives": 0,
+      "false_negatives": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "matches": [
+        {
+          "gt_text": "hun",
+          "pred_text": "hun",
+          "match_type": "exact",
+          "gt_confidence": "certain",
+          "pred_confidence": "certain"
+        },
+        {
+          "gt_text": "stille",
+          "pred_text": "stille",
+          "match_type": "exact",
+          "gt_confidence": "certain",
+          "pred_confidence": "certain"
+        }
+      ],
+      "missed": [],
+      "extra": [],
+      "file": "fbf072_2"
+    },
+    {
+      "true_positives": 1,
+      "false_positives": 0,
+      "false_negatives": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "matches": [
+        {
+          "gt_text": "eneste",
+          "pred_text": "eneste",
+          "match_type": "exact",
+          "gt_confidence": "certain",
+          "pred_confidence": "certain"
+        }
+      ],
+      "missed": [],
+      "extra": [],
+      "file": "fbhl001_1"
+    },
+    {
+      "true_positives": 1,
+      "false_positives": 1,
+      "false_negatives": 0,
+      "precision": 0.5,
+      "recall": 1.0,
+      "f1": 0.667,
+      "matches": [
+        {
+          "gt_text": "skal",
+          "pred_text": "skal",
+          "match_type": "exact",
+          "gt_confidence": "certain",
+          "pred_confidence": "certain"
+        }
+      ],
+      "missed": [],
+      "extra": [
+        "saa smaat"
+      ],
+      "file": "fbio001_2"
+    },
+    {
+      "true_positives": 1,
+      "false_positives": 0,
+      "false_negatives": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "matches": [
+        {
+          "gt_text": "vidunderlige",
+          "pred_text": "vidunderlige",
+          "match_type": "exact",
+          "gt_confidence": "certain",
+          "pred_confidence": "certain"
+        }
+      ],
+      "missed": [],
+      "extra": [],
+      "file": "fbio002_2"
+    },
+    {
+      "true_positives": 2,
+      "false_positives": 0,
+      "false_negatives": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "matches": [
+        {
+          "gt_text": "burde",
+          "pred_text": "burde",
+          "match_type": "exact",
+          "gt_confidence": "probable",
+          "pred_confidence": "certain"
+        },
+        {
+          "gt_text": "ikke",
+          "pred_text": "ikke",
+          "match_type": "exact",
+          "gt_confidence": "probable",
+          "pred_confidence": "certain"
+        }
+      ],
+      "missed": [],
+      "extra": [],
+      "file": "fbmm004_1"
+    },
+    {
+      "true_positives": 2,
+      "false_positives": 1,
+      "false_negatives": 1,
+      "precision": 0.667,
+      "recall": 0.667,
+      "f1": 0.667,
+      "matches": [
+        {
+          "gt_text": "saafremt Deres Hel- bred tillader det",
+          "pred_text": "Deres Hel- bred",
+          "match_type": "partial",
+          "gt_confidence": "certain",
+          "pred_confidence": "certain"
+        },
+        {
+          "gt_text": "ikke",
+          "pred_text": "ikke",
+          "match_type": "exact",
+          "gt_confidence": "certain",
+          "pred_confidence": "certain"
+        }
+      ],
+      "missed": [
+        "netop"
+      ],
+      "extra": [
+        "Dirigentposten"
+      ],
+      "file": "fbmx002_2"
+    },
+    {
+      "true_positives": 1,
+      "false_positives": 0,
+      "false_negatives": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "matches": [
+        {
+          "gt_text": "meget",
+          "pred_text": "meget",
+          "match_type": "exact",
+          "gt_confidence": "certain",
+          "pred_confidence": "certain"
+        }
+      ],
+      "missed": [],
+      "extra": [],
+      "file": "fboz003_1"
+    },
+    {
+      "true_positives": 4,
+      "false_positives": 0,
+      "false_negatives": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "matches": [
+        {
+          "gt_text": "Deres",
+          "pred_text": "Deres",
+          "match_type": "exact",
+          "gt_confidence": "certain",
+          "pred_confidence": "certain"
+        },
+        {
+          "gt_text": "bis",
+          "pred_text": "bis",
+          "match_type": "exact",
+          "gt_confidence": "certain",
+          "pred_confidence": "certain"
+        },
+        {
+          "gt_text": "auf",
+          "pred_text": "auf",
+          "match_type": "exact",
+          "gt_confidence": "certain",
+          "pred_confidence": "certain"
+        },
+        {
+          "gt_text": "weiteres",
+          "pred_text": "weiteres",
+          "match_type": "exact",
+          "gt_confidence": "certain",
+          "pred_confidence": "certain"
+        }
+      ],
+      "missed": [],
+      "extra": [],
+      "file": "fchz016_2"
+    },
+    {
+      "true_positives": 4,
+      "false_positives": 5,
+      "false_negatives": 6,
+      "precision": 0.444,
+      "recall": 0.4,
+      "f1": 0.421,
+      "matches": [
+        {
+          "gt_text": "straks",
+          "pred_text": "straks i vort første Komitémøde",
+          "match_type": "partial",
+          "gt_confidence": "certain",
+          "pred_confidence": "certain"
+        },
+        {
+          "gt_text": "rimelige",
+          "pred_text": "rimelige Vilkår",
+          "match_type": "partial",
+          "gt_confidence": "certain",
+          "pred_confidence": "certain"
+        },
+        {
+          "gt_text": "alligevel",
+          "pred_text": "alligevel",
+          "match_type": "exact",
+          "gt_confidence": "certain",
+          "pred_confidence": "probable"
+        },
+        {
+          "gt_text": "just",
+          "pred_text": "just og kun",
+          "match_type": "partial",
+          "gt_confidence": "certain",
+          "pred_confidence": "probable"
+        }
+      ],
+      "missed": [
+        "denne",
+        "liget",
+        "imponerende",
+        "første",
+        "udenlansk",
+        "kun"
+      ],
+      "extra": [
+        "norske Toneværkers Opførelse",
+        "samlet udenlandsk Orkester",
+        "Fugl eller Fisk",
+        "lidet",
+        "Kage"
+      ],
+      "file": "fgab001_2"
+    },
+    {
+      "true_positives": 2,
+      "false_positives": 3,
+      "false_negatives": 1,
+      "precision": 0.4,
+      "recall": 0.667,
+      "f1": 0.5,
+      "matches": [
+        {
+          "gt_text": "Ingen",
+          "pred_text": "Ingen",
+          "match_type": "exact",
+          "gt_confidence": "certain",
+          "pred_confidence": "certain"
+        },
+        {
+          "gt_text": "hele",
+          "pred_text": "hele",
+          "match_type": "exact",
+          "gt_confidence": "certain",
+          "pred_confidence": "certain"
+        }
+      ],
+      "missed": [
+        "Ingen"
+      ],
+      "extra": [
+        "fordi",
+        "saa",
+        "du"
+      ],
+      "file": "fgb002_1"
+    },
+    {
+      "true_positives": 1,
+      "false_positives": 0,
+      "false_negatives": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "matches": [
+        {
+          "gt_text": "ikke",
+          "pred_text": "ikke",
+          "match_type": "exact",
+          "gt_confidence": "certain",
+          "pred_confidence": "certain"
+        }
+      ],
+      "missed": [],
+      "extra": [],
+      "file": "fgb007_1"
+    },
+    {
+      "true_positives": 1,
+      "false_positives": 1,
+      "false_negatives": 0,
+      "precision": 0.5,
+      "recall": 1.0,
+      "f1": 0.667,
+      "matches": [
+        {
+          "gt_text": "efter eget Initiativ",
+          "pred_text": "efter eget Initiativ",
+          "match_type": "exact",
+          "gt_confidence": "certain",
+          "pred_confidence": "certain"
+        }
+      ],
+      "missed": [],
+      "extra": [
+        "tilstille"
+      ],
+      "file": "fhk027_1"
+    },
+    {
+      "true_positives": 1,
+      "false_positives": 0,
+      "false_negatives": 1,
+      "precision": 1.0,
+      "recall": 0.5,
+      "f1": 0.667,
+      "matches": [
+        {
+          "gt_text": "ædru",
+          "pred_text": "uædru",
+          "match_type": "partial",
+          "gt_confidence": "certain",
+          "pred_confidence": "certain"
+        }
+      ],
+      "missed": [
+        "uædru"
+      ],
+      "extra": [],
+      "file": "fhka006_3"
+    },
+    {
+      "true_positives": 2,
+      "false_positives": 2,
+      "false_negatives": 4,
+      "precision": 0.5,
+      "recall": 0.333,
+      "f1": 0.4,
+      "matches": [
+        {
+          "gt_text": "gjerne",
+          "pred_text": "gjerne",
+          "match_type": "exact",
+          "gt_confidence": "uncertain",
+          "pred_confidence": "certain"
+        },
+        {
+          "gt_text": "uden",
+          "pred_text": "uden",
+          "match_type": "exact",
+          "gt_confidence": "probable",
+          "pred_confidence": "certain"
+        }
+      ],
+      "missed": [
+        "medfølgende",
+        "om",
+        "ske",
+        "meget"
+      ],
+      "extra": [
+        "Navn blir",
+        "nævnt"
+      ],
+      "file": "fisx001_1"
+    },
+    {
+      "true_positives": 1,
+      "false_positives": 1,
+      "false_negatives": 1,
+      "precision": 0.5,
+      "recall": 0.5,
+      "f1": 0.5,
+      "matches": [
+        {
+          "gt_text": "et",
+          "pred_text": "det er velment",
+          "match_type": "partial",
+          "gt_confidence": "certain",
+          "pred_confidence": "certain"
+        }
+      ],
+      "missed": [
+        "det er velment"
+      ],
+      "extra": [
+        "et Hald"
+      ],
+      "file": "foo002_2"
+    },
+    {
+      "true_positives": 1,
+      "false_positives": 0,
+      "false_negatives": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "matches": [
+        {
+          "gt_text": "før",
+          "pred_text": "før",
+          "match_type": "exact",
+          "gt_confidence": "certain",
+          "pred_confidence": "certain"
+        }
+      ],
+      "missed": [],
+      "extra": [],
+      "file": "no-nb_digimanus_214549_0001"
+    },
+    {
+      "true_positives": 0,
+      "false_positives": 0,
+      "false_negatives": 1,
+      "precision": 0,
+      "recall": 0.0,
+      "f1": 0,
+      "matches": [],
+      "missed": [
+        "for"
+      ],
+      "extra": [],
+      "file": "no-nb_digimanus_21565_0001"
+    },
+    {
+      "true_positives": 1,
+      "false_positives": 0,
+      "false_negatives": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "matches": [
+        {
+          "gt_text": "vil",
+          "pred_text": "vil",
+          "match_type": "exact",
+          "gt_confidence": "certain",
+          "pred_confidence": "certain"
+        }
+      ],
+      "missed": [],
+      "extra": [],
+      "file": "no-nb_digimanus_249940_0001"
+    },
+    {
+      "true_positives": 1,
+      "false_positives": 0,
+      "false_negatives": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "matches": [
+        {
+          "gt_text": "uden",
+          "pred_text": "uden hr Vigelands samtykke",
+          "match_type": "partial",
+          "gt_confidence": "certain",
+          "pred_confidence": "certain"
+        }
+      ],
+      "missed": [],
+      "extra": [],
+      "file": "no-nb_digimanus_25418_0001"
+    },
+    {
+      "true_positives": 1,
+      "false_positives": 1,
+      "false_negatives": 0,
+      "precision": 0.5,
+      "recall": 1.0,
+      "f1": 0.667,
+      "matches": [
+        {
+          "gt_text": "merki",
+          "pred_text": "merki",
+          "match_type": "exact",
+          "gt_confidence": "certain",
+          "pred_confidence": "certain"
+        }
+      ],
+      "missed": [],
+      "extra": [
+        "III"
+      ],
+      "file": "no-nb_digimanus_258173_0001"
+    },
+    {
+      "true_positives": 1,
+      "false_positives": 0,
+      "false_negatives": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "matches": [
+        {
+          "gt_text": "ikke under nogen omstændighed",
+          "pred_text": "ikke under nogen omstændighed",
+          "match_type": "exact",
+          "gt_confidence": "certain",
+          "pred_confidence": "certain"
+        }
+      ],
+      "missed": [],
+      "extra": [],
+      "file": "no-nb_digimanus_258197_0001"
+    },
+    {
+      "true_positives": 2,
+      "false_positives": 1,
+      "false_negatives": 0,
+      "precision": 0.667,
+      "recall": 1.0,
+      "f1": 0.8,
+      "matches": [
+        {
+          "gt_text": "hverken har lyst eller evne",
+          "pred_text": "hverken har lyst eller evne",
+          "match_type": "exact",
+          "gt_confidence": "certain",
+          "pred_confidence": "certain"
+        },
+        {
+          "gt_text": "denne anvendelse",
+          "pred_text": "denne anvendelse",
+          "match_type": "exact",
+          "gt_confidence": "certain",
+          "pred_confidence": "certain"
+        }
+      ],
+      "missed": [],
+      "extra": [
+        "Hvad jeg"
+      ],
+      "file": "no-nb_digimanus_258197_0002"
+    },
+    {
+      "true_positives": 1,
+      "false_positives": 0,
+      "false_negatives": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "matches": [
+        {
+          "gt_text": "i tilfælde",
+          "pred_text": "tilfælde",
+          "match_type": "partial",
+          "gt_confidence": "certain",
+          "pred_confidence": "certain"
+        }
+      ],
+      "missed": [],
+      "extra": [],
+      "file": "no-nb_digimanus_311001_0001"
+    },
+    {
+      "true_positives": 1,
+      "false_positives": 0,
+      "false_negatives": 1,
+      "precision": 1.0,
+      "recall": 0.5,
+      "f1": 0.667,
+      "matches": [
+        {
+          "gt_text": "trods",
+          "pred_text": "trods alt",
+          "match_type": "partial",
+          "gt_confidence": "certain",
+          "pred_confidence": "certain"
+        }
+      ],
+      "missed": [
+        "alt"
+      ],
+      "extra": [],
+      "file": "no-nb_digimanus_313806_0002"
+    },
+    {
+      "true_positives": 1,
+      "false_positives": 0,
+      "false_negatives": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "matches": [
+        {
+          "gt_text": "må",
+          "pred_text": "må",
+          "match_type": "exact",
+          "gt_confidence": "certain",
+          "pred_confidence": "certain"
+        }
+      ],
+      "missed": [],
+      "extra": [],
+      "file": "no-nb_digimanus_317348_0001"
+    },
+    {
+      "true_positives": 2,
+      "false_positives": 1,
+      "false_negatives": 0,
+      "precision": 0.667,
+      "recall": 1.0,
+      "f1": 0.8,
+      "matches": [
+        {
+          "gt_text": "absolut",
+          "pred_text": "absolut",
+          "match_type": "exact",
+          "gt_confidence": "certain",
+          "pred_confidence": "certain"
+        },
+        {
+          "gt_text": "i opvarmet Rum",
+          "pred_text": "i opvarmet Rum",
+          "match_type": "exact",
+          "gt_confidence": "certain",
+          "pred_confidence": "certain"
+        }
+      ],
+      "missed": [],
+      "extra": [
+        "Frottering"
+      ],
+      "file": "no-nb_digimanus_52618_0001"
+    },
+    {
+      "true_positives": 1,
+      "false_positives": 1,
+      "false_negatives": 0,
+      "precision": 0.5,
+      "recall": 1.0,
+      "f1": 0.667,
+      "matches": [
+        {
+          "gt_text": "bestemt Dag i hver eneste Uke",
+          "pred_text": "bestemt Dag i hver eneste Uke",
+          "match_type": "exact",
+          "gt_confidence": "certain",
+          "pred_confidence": "certain"
+        }
+      ],
+      "missed": [],
+      "extra": [
+        "Ingen Utsættelse"
+      ],
+      "file": "no-nb_digimanus_52747_0001"
+    },
+    {
+      "true_positives": 1,
+      "false_positives": 0,
+      "false_negatives": 1,
+      "precision": 1.0,
+      "recall": 0.5,
+      "f1": 0.667,
+      "matches": [
+        {
+          "gt_text": "telegrafere dette til mig",
+          "pred_text": "telegrafere dette til mig",
+          "match_type": "exact",
+          "gt_confidence": "certain",
+          "pred_confidence": "certain"
+        }
+      ],
+      "missed": [
+        "telegrafere"
+      ],
+      "extra": [],
+      "file": "no-nb_digimanus_55495_0003"
+    },
+    {
+      "true_positives": 1,
+      "false_positives": 0,
+      "false_negatives": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "matches": [
+        {
+          "gt_text": "Jeg tar ikke Langfeldts Navn ut av min Bok.",
+          "pred_text": "Jeg tar ikke Langfeldts Navn ut av min Bok.",
+          "match_type": "exact",
+          "gt_confidence": "certain",
+          "pred_confidence": "certain"
+        }
+      ],
+      "missed": [],
+      "extra": [],
+      "file": "no-nb_digimanus_73009_0001"
+    }
+  ]
+}
